@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natani Codes</title>
+    <link>https://TechnoVixen-Natani.github.io/</link>
+    <description>Recent content on Natani Codes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://TechnoVixen-Natani.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://TechnoVixen-Natani.github.io/projects/</link>
+      <pubDate>Thu, 08 Sep 2022 16:56:59 -0500</pubDate>
+      
+      <guid>https://TechnoVixen-Natani.github.io/projects/</guid>
+      <description>CEIS 101 IoT Home Security CEIS 110 Intro to Programming CEIS 114 Intro to digital devices: Traffic control circuit NETWK 191 Networking NETWK 211 Cloud Computing SEC 285 Fundamentals of Information Security Fundamentals of Information Security-BYOB Policy </description>
+    </item>
+    
+    <item>
+      <title>Pets</title>
+      <link>https://TechnoVixen-Natani.github.io/pets/</link>
+      <pubDate>Sun, 04 Sep 2022 22:31:10 -0500</pubDate>
+      
+      <guid>https://TechnoVixen-Natani.github.io/pets/</guid>
+      <description>Ryder Bio Ryder is a rescue cat. He was approximately 2 years old when we got him from the shelter. Original name was Pedro. His ear was cut when we got him. He knows how to sit and stand on hind legs for treats. Very attached to me.
+Tootie Bio Tootie is also a rescue, we got her from my brother in law, we believe she was the runt of the litter.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://TechnoVixen-Natani.github.io/about/</link>
+      <pubDate>Sun, 04 Sep 2022 21:49:54 -0500</pubDate>
+      
+      <guid>https://TechnoVixen-Natani.github.io/about/</guid>
+      <description>I grew up in a small town in Michigan, family of 5 and I was the middle child, the rainbow sheep of the family. Not that it mattered much because I grew up to be awesome! Anyways, my junior and senior year of high school I attended a Career Tech Center (CTC for short) in conjunction with my core HS classes. The first year we studied CompTIA A+ and Network+.</description>
+    </item>
+    
+  </channel>
+</rss>
